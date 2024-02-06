@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Profesional Webpage"
+title                    : "Professional Website"
 title_separator          : "-"
 name                     : &name "Sergio Pérez-Montero"
 description              : &description "personal description"
