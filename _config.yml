@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sergio Pérez-Montero / Webpage"
+title                    : "Profesional Webpage"
 title_separator          : "-"
 name                     : &name "Sergio Pérez-Montero"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sergio Pérez-Montero"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
