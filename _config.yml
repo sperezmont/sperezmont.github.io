@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sergio's website"
 title_separator          : "-"
 name                     : &name "Sergio Pérez-Montero"
-description              : &description "I consider myself to be a self-taught and curious person who enjoys studying nature and being outdoors"
+description              : &description " "
 url                      : https://sperezmont.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sperezmont.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sergio Pérez-Montero"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "I consider myself to be a self-taught and curious person who enjoys studying nature and being outdoors"
+  location         : "Madrid, Spain"
+  employer         : "Geosciences Insitute (IGEO, UCM-CSIC)"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=f7GM1HAAAAAJ&hl=es&oi=ao"
   email            :  sepere07@ucm.es
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sergio-Perez-Montero"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sperezmont"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://es.linkedin.com/in/sergio-perez-montero-0b3176157?trk=people-guest_people_search-card"
+  orcid            : "http://orcid.org/0000-0002-0766-3291"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
