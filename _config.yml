@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Professional Website"
+title                    : "Sergio's website"
 title_separator          : "-"
 name                     : &name "Sergio Pérez-Montero"
-description              : &description "personal description"
+description              : &description "I consider myself to be a self-taught and curious person who enjoys studying nature and being outdoors"
 url                      : https://sperezmont.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sperezmont.github.io"
