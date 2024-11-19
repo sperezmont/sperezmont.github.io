@@ -6,8 +6,8 @@ Name Name:
   email       : "sepere07@ucm.es"
   bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  #twitter     : "name"
+  #google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
