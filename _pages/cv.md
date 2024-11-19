@@ -13,6 +13,7 @@ Education
 ======
 * B.Sc. in Physics, Complutense University of Madrid, 2021
 * M.Sc. in Meteorology and Geophysics, Complutense University of Madrid, 2022
+* VET in Mountaineering, Training centre for sports technicians (CFEM), 2025 (expected)
 * Ph.D in Physics, Complutense University of Madrid, 2026 (expected)
 
 Work experience
