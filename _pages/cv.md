@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Complutense University of Madrid, 2021
+* M.Sc. in Meteorology and Geophysics, Complutense University of Madrid, 2022
+* Ph.D in Physics, Complutense University of Madrid, 2026 (expected)
 
 Work experience
 ======
