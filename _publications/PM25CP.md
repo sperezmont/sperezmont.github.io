@@ -8,5 +8,3 @@ venue: 'Climate of the Past (CP)'
 paperurl: ''
 citation: 'Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., Montoya, M., & Robinson, A. (2025). Understanding the Mid-Pleistocene transition with a simple physical model. EGUsphere, 2025.'
 ---
-
-[Download here]()
