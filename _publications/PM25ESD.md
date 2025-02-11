@@ -8,7 +8,3 @@ venue: 'Earth System Dynamics (ESD)'
 paperurl: 'https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1842/'
 citation: 'Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., Montoya, M., & Robinson, A. (2024). A simple physical model for glacial cycles. EGUsphere, 2024, 1-29.'
 ---
-
-[Download here](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1842/)
-
-Recommended citation: Pérez-Montero, S., Alvarez-Solas, J., Swierczek-Jereczek, J., Moreno-Parada, D., Montoya, M., & Robinson, A. (2024). A simple physical model for glacial cycles. EGUsphere, 2024, 1-29.
