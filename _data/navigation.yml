@@ -26,6 +26,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Sport CV"
+    url: /sport_cv/
+    
   # - title: "CV"
   #   url: /cv-json/
     
