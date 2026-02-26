@@ -15,14 +15,14 @@ Education
 
 Work experience
 ======
-* April-May 2025:
+* April-May 2025: Staff member and teacher
   * Urban Monkey Climbing Gym
   
 Achievements
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Climbing: 6b+ (sport climbing), V+ (trad climbing), 6c (boulder)
+* Alpinism:
+  * 
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
