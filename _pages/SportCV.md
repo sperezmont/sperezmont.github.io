@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* V.E.T. Mountain guide (TD1), Training centre for mountain sports technicians (CFEM), 2025 
+* V.E.T. Mountain guide (TD1), Training centre for mountain sports technicians (CFEM), 2025
+* Advanced mountaineering and ridgline climbing course, Madrid Mountain Federation - Madrid High Mountain School (FMM-EMAM), 2024
 
 Work experience
 ======
@@ -22,7 +23,7 @@ Achievements
 ======
 * Climbing: 6b+ (sport climbing), V+ (trad climbing), 6c (boulder)
 * Alpinism:
-  * 
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Rongai gate to Uhuru Peak in 3.5 days, Kilimanjaro, Tanzania, 2025
+  * Aneto peak, 2025
+  * Monte Perdido peak, 2024 
 * Skill 3
