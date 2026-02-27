@@ -29,8 +29,8 @@ main:
   - title: "Sport CV"
     url: /sport_cv/
 
-  - title: "Photography"
-     url: /photography/
+  - title: "Portfolio"
+    url: /portfolio/
     
   # - title: "CV"
   #   url: /cv-json/
