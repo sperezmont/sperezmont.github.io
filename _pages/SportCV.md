@@ -22,7 +22,7 @@ Work experience
 Achievements
 ======
 * Climbing: 6b+ (sport climbing), V+ (trad climbing), 6c (boulder)
-* Alpinism:
+* Alpinism and mountaineering:
   * Rongai gate to Uhuru Peak, Kilimanjaro, Tanzania, 2025
   * Aneto peak, 2025
   * Monte Perdido peak, 2024 
