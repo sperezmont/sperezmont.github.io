@@ -24,7 +24,9 @@ Achievements
 ======
 * Climbing: 6b+ (sport climbing), V+ (trad climbing), 6c (boulder)
 * Alpinism and mountaineering:
-  * Rongai gate to Uhuru Peak, Kilimanjaro, Tanzania, 2025
-  * Aneto peak, 2025
-  * Monte Perdido peak, 2024 
-* Skill 3
+  * Rongai gate to Uhuru Peak (5895 m), Kilimanjaro, Tanzania, 2025
+  * Aneto peak (3404 m), 2025
+  * Monte Perdido peak (3348 m), 2024
+* Diving: 8 dives
+  * Spain: 6
+  * Portugal: 2 
