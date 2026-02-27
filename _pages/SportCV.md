@@ -23,7 +23,7 @@ Achievements
 ======
 * Climbing: 6b+ (sport climbing), V+ (trad climbing), 6c (boulder)
 * Alpinism:
-  * Rongai gate to Uhuru Peak in 3.5 days, Kilimanjaro, Tanzania, 2025
+  * Rongai gate to Uhuru Peak, Kilimanjaro, Tanzania, 2025
   * Aneto peak, 2025
   * Monte Perdido peak, 2024 
 * Skill 3
