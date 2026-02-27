@@ -29,4 +29,28 @@ Achievements
   * Monte Perdido peak (3348 m), 2024
 * Diving: 8 dives
   * Spain: 6
-  * Portugal: 2 
+  * Portugal: 2
+
+Outdoor interests
+======
+Sorted by time spent practicing them
+* Mountaineering and Alpinism
+* Hiking and trekking
+* Climbing
+  * Gym
+  * Sport climbing
+  * Bouldering
+  * Trad climbing
+  * Ice climbing
+* Running
+  * Orienteering races
+  * Cross and trail running
+* Mountain biking
+* Skiing
+  * Alpine skiing
+  * Nordic skiing
+  * Ski mountaineering
+* Kayaking
+* Diving
+* Snowboarding
+* Archery
