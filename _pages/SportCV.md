@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * V.E.T. Mountain guide (TD1), Training centre for mountain sports technicians (CFEM), 2025
-* Advanced mountaineering and ridgline climbing course, Madrid Mountain Federation - Madrid High Mountain School (FMM-EMAM), 2024
+* Advanced mountaineering and ridge climbing course, Madrid Mountain Federation - Madrid High Mountain School (FMM-EMAM), 2024
+* PADI Open Water Diver certification, Casco Antiguo Diving, Madrid, 2023
 
 Work experience
 ======
